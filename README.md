@@ -1,6 +1,4 @@
 
-
-```markdown
 <p align="center">
   <pre>
  ____  _ _     ____
