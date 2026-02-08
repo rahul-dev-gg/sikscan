@@ -62,7 +62,7 @@ Each target is classified into one of three categories:
 
 ```bash
 # Clone the repo
-git clone [https://github.com/YOUR_USERNAME/sikscan.git](https://github.com/YOUR_USERNAME/sikscan.git)
+git clone [https://github.com/rahul-dev-gg/sikscan.git](https://github.com/rahul-dev-gg/sikscan.git)
 cd sikscan
 
 # Make executable
